@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\bin\Debug\net8.0\UnityPersonalPackageManagerServer.exe
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\bin\Debug\net8.0\UnityPersonalPackageManagerServer.deps.json
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\bin\Debug\net8.0\UnityPersonalPackageManagerServer.runtimeconfig.json
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\bin\Debug\net8.0\UnityPersonalPackageManagerServer.dll
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\bin\Debug\net8.0\UnityPersonalPackageManagerServer.pdb
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\obj\Debug\net8.0\UnityPersonalPackageManagerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\obj\Debug\net8.0\UnityPersonalPackageManagerServer.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\obj\Debug\net8.0\UnityPersonalPackageManagerServer.AssemblyInfo.cs
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\obj\Debug\net8.0\UnityPersonalPackageManagerServer.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\obj\Debug\net8.0\UnityPersonalPackageManagerServer.dll
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\obj\Debug\net8.0\refint\UnityPersonalPackageManagerServer.dll
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\obj\Debug\net8.0\UnityPersonalPackageManagerServer.pdb
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\obj\Debug\net8.0\UnityPersonalPackageManagerServer.genruntimeconfig.cache
+C:\Users\Owner\source\repos\UnityPersonalPackageManagerServer\obj\Debug\net8.0\ref\UnityPersonalPackageManagerServer.dll
